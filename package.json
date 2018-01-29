@@ -1,0 +1,25 @@
+{
+  "name": "react-app-rewire-lodash-plugin",
+  "version": "1.0.0",
+  "description": "Add lodash-webpack-plugin to a react-app-rewired config.",
+  "keywords": [
+    "lodash",
+    "react-app-rewired",
+    "webpack"
+  ],
+  "homepage": "https://github.com/xlsdg/react-app-rewire-lodash-plugin",
+  "bugs": {
+    "url": "https://github.com/xlsdg/react-app-rewire-lodash-plugin/issues"
+  },
+  "license": "MIT",
+  "author": "xLsDg <xlsdg@qq.com> (https://blog.xlsdg.org/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xlsdg/react-app-rewire-lodash-plugin.git"
+  },
+  "dependencies": {
+    "lodash-webpack-plugin": "latest",
+    "webpack": "latest"
+  }
+}
