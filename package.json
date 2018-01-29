@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-lodash-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add lodash-webpack-plugin to a react-app-rewired config.",
   "keywords": [
     "lodash",
