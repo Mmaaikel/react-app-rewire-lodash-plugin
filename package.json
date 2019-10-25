@@ -19,7 +19,6 @@
     "url": "https://github.com/xlsdg/react-app-rewire-lodash-plugin.git"
   },
   "dependencies": {
-    "lodash-webpack-plugin": "latest",
-    "webpack": "latest"
+    "lodash-webpack-plugin": "latest"
   }
 }
